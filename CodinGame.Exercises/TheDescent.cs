@@ -14,7 +14,7 @@ using System.Collections.Generic;
  **/
 class TheDescent
 {
-    static void Main(string[] args)
+    static void Calcule(string[] args)
     {
 
         // game loop

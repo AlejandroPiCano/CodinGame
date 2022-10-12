@@ -1,0 +1,15 @@
+C:\Projects\CodinGame\CodinGame.Exercises\obj\Debug\net6.0\CodinGame.Exercises.csproj.AssemblyReference.cache
+C:\Projects\CodinGame\CodinGame.Exercises\obj\Debug\net6.0\CodinGame.Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CodinGame\CodinGame.Exercises\obj\Debug\net6.0\CodinGame.Exercises.AssemblyInfoInputs.cache
+C:\Projects\CodinGame\CodinGame.Exercises\obj\Debug\net6.0\CodinGame.Exercises.AssemblyInfo.cs
+C:\Projects\CodinGame\CodinGame.Exercises\obj\Debug\net6.0\CodinGame.Exercises.csproj.CoreCompileInputs.cache
+C:\Projects\CodinGame\CodinGame.Exercises\bin\Debug\net6.0\CodinGame.Exercises.exe
+C:\Projects\CodinGame\CodinGame.Exercises\bin\Debug\net6.0\CodinGame.Exercises.deps.json
+C:\Projects\CodinGame\CodinGame.Exercises\bin\Debug\net6.0\CodinGame.Exercises.runtimeconfig.json
+C:\Projects\CodinGame\CodinGame.Exercises\bin\Debug\net6.0\CodinGame.Exercises.dll
+C:\Projects\CodinGame\CodinGame.Exercises\bin\Debug\net6.0\CodinGame.Exercises.pdb
+C:\Projects\CodinGame\CodinGame.Exercises\obj\Debug\net6.0\CodinGame.Exercises.dll
+C:\Projects\CodinGame\CodinGame.Exercises\obj\Debug\net6.0\refint\CodinGame.Exercises.dll
+C:\Projects\CodinGame\CodinGame.Exercises\obj\Debug\net6.0\CodinGame.Exercises.pdb
+C:\Projects\CodinGame\CodinGame.Exercises\obj\Debug\net6.0\CodinGame.Exercises.genruntimeconfig.cache
+C:\Projects\CodinGame\CodinGame.Exercises\obj\Debug\net6.0\ref\CodinGame.Exercises.dll

@@ -13,7 +13,7 @@ using System.Collections.Generic;
  **/
 class PowerOfThor
 {
-    static void Main(string[] args)
+    static void Calcule(string[] args)
     {
         string[] inputs = Console.ReadLine().Split(' ');
         int lightX = int.Parse(inputs[0]); // the X position of the light of power
